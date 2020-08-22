@@ -1,0 +1,4 @@
+* @radektomasek
+*.js @radektomasek
+*.yml @radektomasek
+/public/ @radektomasek
